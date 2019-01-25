@@ -1,0 +1,14 @@
+C:\Users\becki\source\repos\CollegeCostAPI\Test\bin\Debug\Test.exe.config
+C:\Users\becki\source\repos\CollegeCostAPI\Test\bin\Debug\Test.exe
+C:\Users\becki\source\repos\CollegeCostAPI\Test\bin\Debug\Test.pdb
+C:\Users\becki\source\repos\CollegeCostAPI\Test\bin\Debug\CollegeCostAPI.dll
+C:\Users\becki\source\repos\CollegeCostAPI\Test\bin\Debug\CsvHelper.dll
+C:\Users\becki\source\repos\CollegeCostAPI\Test\bin\Debug\System.ValueTuple.dll
+C:\Users\becki\source\repos\CollegeCostAPI\Test\bin\Debug\CollegeCostAPI.pdb
+C:\Users\becki\source\repos\CollegeCostAPI\Test\bin\Debug\CsvHelper.xml
+C:\Users\becki\source\repos\CollegeCostAPI\Test\bin\Debug\System.ValueTuple.xml
+C:\Users\becki\source\repos\CollegeCostAPI\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\becki\source\repos\CollegeCostAPI\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\becki\source\repos\CollegeCostAPI\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\becki\source\repos\CollegeCostAPI\Test\obj\Debug\Test.exe
+C:\Users\becki\source\repos\CollegeCostAPI\Test\obj\Debug\Test.pdb

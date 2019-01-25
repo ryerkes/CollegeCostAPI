@@ -1,0 +1,11 @@
+C:\Users\becki\source\repos\CollegeCostAPI\CollegeCostAPI\bin\Debug\CollegeCostAPI.dll
+C:\Users\becki\source\repos\CollegeCostAPI\CollegeCostAPI\bin\Debug\CollegeCostAPI.pdb
+C:\Users\becki\source\repos\CollegeCostAPI\CollegeCostAPI\bin\Debug\CsvHelper.dll
+C:\Users\becki\source\repos\CollegeCostAPI\CollegeCostAPI\bin\Debug\System.ValueTuple.dll
+C:\Users\becki\source\repos\CollegeCostAPI\CollegeCostAPI\bin\Debug\CsvHelper.xml
+C:\Users\becki\source\repos\CollegeCostAPI\CollegeCostAPI\bin\Debug\System.ValueTuple.xml
+C:\Users\becki\source\repos\CollegeCostAPI\CollegeCostAPI\obj\Debug\CollegeCostAPI.csprojAssemblyReference.cache
+C:\Users\becki\source\repos\CollegeCostAPI\CollegeCostAPI\obj\Debug\CollegeCostAPI.csproj.CoreCompileInputs.cache
+C:\Users\becki\source\repos\CollegeCostAPI\CollegeCostAPI\obj\Debug\CollegeCostAPI.csproj.CopyComplete
+C:\Users\becki\source\repos\CollegeCostAPI\CollegeCostAPI\obj\Debug\CollegeCostAPI.dll
+C:\Users\becki\source\repos\CollegeCostAPI\CollegeCostAPI\obj\Debug\CollegeCostAPI.pdb
